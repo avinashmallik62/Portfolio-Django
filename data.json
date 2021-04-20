@@ -1,0 +1,16 @@
+{
+    "NAME" : "Avinash Kumar",
+    "ABOUT_ME" : "I am currently pursuing B.Tech from Birla Institute of Technology,Mesra.I love web development , anroid development as core   CS technologies.I have worked with Foxmula , Coding Ninjas etc.",
+    "LANGUAGES" : [
+        "C++",
+        "Python",
+        "JavaScript",
+        "Java"
+    ],
+    "PROJECTS" : [
+        ["filter_drama","First","Lorem ipsum dolor sit amet"],
+        ["place","Second","Lorem ipsum dolor sit amet"],
+        ["whatshot","Third","Lorem ipsum dolor sit amet"]
+    ]
+    
+}
